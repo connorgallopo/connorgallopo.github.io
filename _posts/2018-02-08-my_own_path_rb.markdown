@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "`my_own_path.rb`"
-date:       2018-02-08 17:23:02 +0000
+title:      "my_own_path.rb"
+date:       2018-02-08 12:23:03 -0500
 permalink:  my_own_path_rb
 ---
 
